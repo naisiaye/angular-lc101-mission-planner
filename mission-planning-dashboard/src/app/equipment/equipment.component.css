@@ -1,0 +1,14 @@
+ul{
+    list-style-type: square;
+}
+li{
+    color:darkblue;
+}
+
+.container{
+    border: rgb(126, 153, 79);
+    border-style: dotted;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
